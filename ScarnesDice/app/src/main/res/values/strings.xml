@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scarnes Dice</string>
+    <string name="action_settings">Settings</string>
+    <string name="gameStatusString">Your Score: X, Computer Score: X, Your Turn Score: X</string>
+</resources>
